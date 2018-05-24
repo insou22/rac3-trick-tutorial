@@ -10,9 +10,10 @@ Content to be covered the UYA speedrunning trick tutorial
 - Turret proxies
 - Skrunchless
 - Obani Pollux skip
+- Zeldrin skip
 - Optimal whip jumps
 - Rock whip cancels
-- Silence wrench throw strat
+- Silence nil momentum whips
 - Charging ledgegrab long jump
 - etc. Please submit Pull Requests to add content!
 
