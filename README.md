@@ -17,4 +17,5 @@ Content to be covered the UYA speedrunning trick tutorial
 - etc. Please submit Pull Requests to add content!
 
 # Want to add content?
-TODO
+https://github.com/insou22/rac3-trick-tutorial/blob/master/README.md
+Click the pencil icon in the top left of the text box to edit, then submit a Pull Request.
